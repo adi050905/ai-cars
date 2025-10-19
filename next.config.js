@@ -32,6 +32,11 @@ const nextConfig = {
       },
       {
         protocol: 'https',
+        hostname: 'ui-avatars.com',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
         hostname: 'via.placeholder.com',
         pathname: '/**',
       },
